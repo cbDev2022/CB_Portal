@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS cb_portal;
+
+CREATE DATABASE cb_portal;
